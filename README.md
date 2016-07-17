@@ -32,8 +32,8 @@ Start your "Hello world" mail by excuting `sh auto_send.sh` if you have finished
       send_list = XXXX@yyy.com `who will receive this mail`<br/>
       subject = Pic            `Subject of this mail`<br/>
       encoding = utf-8         `Encoding of the main content`<br/>
-      accessory_list =          `Accessories contained in the mail`<br/>
-      mail_msg =		 `main_content of the mail, always the html`  <br/>
+      accessory_list = ***|***         `Accessories contained in the mail`<br/>
+      mail_msg =	***	 `main_content of the mail, always the html`  <br/>
       img_list = **.jpg|**.jpg    `images contained in the mail_msg`<br/>
 
 
