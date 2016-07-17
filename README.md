@@ -33,12 +33,7 @@ Start your "Hello world" mail by excuting `sh auto_send.sh` if you have finished
       subject = Pic            `Subject of this mail`<br/>
       encoding = utf-8         `Encoding of the main content`<br/>
       accessory_list =          `Accessories contained in the mail`<br/>
-      mail_msg = <html><head><title>picture</title></head><br/>
-			 	<body><br/>
-				<p>Pic：</p><br/>
-				<p>Pic1<br/><img src="cid:image1"></p> `image label, the src attribution always set as [cid:imageN]`<br/>
-				<p>Pic2<br/><img src="cid:image2"></p><br/>
-				</body></html>            `main_content of the mail, always the html`  <br/>
+      mail_msg =		 `main_content of the mail, always the html`  <br/>
       img_list = **.jpg|**.jpg    `images contained in the mail_msg`<br/>
 
 
