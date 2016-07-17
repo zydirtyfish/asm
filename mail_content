@@ -1,5 +1,5 @@
 [mail_content]
-send_list = joyyzhang@163.com
+send_list = XXXX@yyy.com
 subject = 图片演示
 encoding = utf-8
 accessory_list = 
@@ -9,5 +9,5 @@ mail_msg = <html><head><title>图片</title></head>
 				<p>图片1<br/><img src="cid:image1"></p>
 				<p>图片2<br/><img src="cid:image2"></p>
 				</body></html>
-img_list = 2016-07-14_bar-1.jpg|2016-07-14_curve-1.jpg
+img_list = XXX.jpg|XXX.jpg
 
