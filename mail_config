@@ -1,6 +1,6 @@
 [mail_config]
-sender = joyyzhang@163.com
-sender_name = 华科-张煜
-password = Zy19940117
-mail_host = smtp.163.com
-mail_postfix = 163.com
+sender = XXXX@yy.com
+sender_name = XXXX
+password = *******
+mail_host = smtp.yyy.com
+mail_postfix = yyy.com
