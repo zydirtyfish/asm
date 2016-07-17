@@ -27,8 +27,8 @@ Start your "Hello world" mail by excuting `sh auto_send.sh` if you have finished
 
 
 4. mail_content
-    Always likes this.
-      [mail_content]
+    Always likes this.<br/>
+      [mail_content]<br/>
       send_list = XXXX@yyy.com `who will receive this mail`
       subject = Pic            `Subject of this mail`
       encoding = utf-8         `Encoding of the main content`
