@@ -12,9 +12,9 @@ def main():
 	subject = """图片演示"""
 	#accessory_list = ['2016-07-14_bar-1.jpg','2016-07-14_curve-1.jpg']
 	accessory_list = []
-	img_list = ['2016-07-14_bar-1.jpg','2016-07-14_curve-1.jpg']
+	img_list = ['XXX.jpg','XXX.jpg']
 	#img_list=[]
-	send_list = ['joyyzhang@163.com']
+	send_list = ['XXXXg@yyy.com']
 
 	write_all(content,subject,encoding,send_list,accessory_list,img_list)
 
