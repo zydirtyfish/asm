@@ -79,21 +79,6 @@ def get_content():
 		mail_content["img_list"]=[]
 
 	return mail_content
-	
-def mail_content():
-	mail_content = {
-		"subject" : "柱状图",
-		"encoding" : "utf-8",
-		"mail_msg" : """
-				<html>
-				<head><title>图片</title></head>
-				<body>
-				<p>图片演示：</p>
-				<p><img src="cid:image1"></p>
-				</body>
-			    """
-	}
-	return mail_content
 
 def send_mail_function(mail_config,content,send_list,accessory_list):
 	#设置SMTP服务器、发送者、口令
